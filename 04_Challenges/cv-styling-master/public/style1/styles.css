@@ -75,9 +75,10 @@ padding: 0.9px;
 
 header div{
 display: flex;
-height:65%;
+height:66%;
 padding-left: 4%;
 flex-direction: column;
+padding: 1px;
 }
 
 
@@ -191,7 +192,7 @@ h3::before {
 
   header div{
   display: grid;
-  padding-left: 4%;
+  padding-left: 10%;
   grid-template-columns: 25% 25%;
 
   }
@@ -199,10 +200,10 @@ h3::before {
   .contact{
     height: 35px;
     margin:-15px;
-    width:50%;
+    width:90%;
     background-color: #FF0000;
     margin-top: 0.1111%;
-    margin-left:89%;
+    margin-left:69%;
   }
 
   .contacts{
@@ -216,7 +217,9 @@ h3::before {
 .contact .contact-value{
     background-color:black;
     height: 35px;
-    width:220.5%;
+    width:146.2%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   section#contact h3{
