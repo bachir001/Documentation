@@ -55,8 +55,7 @@ figure {
 }
 
 .skills {
-  /* padding: 0.5rem;
-  margin: 0.2rem; */
+ 
   color: #fff;
 }
 .skills-primary {
@@ -224,14 +223,12 @@ div.experience-details {
   justify-content:center;
   align-self: center;
 }
-/* ----------------------------------------------------------------- */
-/* -------------------------------------------------------------------- */
+
 
 #education {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  /* grid-template-columns: 1fr 1fr 1fr; */
   grid-template-rows: 1fr 1fr;
 }
 
@@ -354,8 +351,8 @@ margin: 2rem;
      }
 
     section#about p{
-width: 100%;
-  border: none;
+    width: 100%;
+    border: none;
      }
 
   #competencies {
